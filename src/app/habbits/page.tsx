@@ -4,24 +4,24 @@ export default function Habbits(){
     
             
         <p>Life can be a whirlwind of decisions—what to eat, when to exercise, when to rest, when to connect with family and friends and when to sneak in a few extra hours of work. How do we squeeze everything in? What if there were a way to simplify your day and boost your well-being at the same time? This is where establishing a routine can act as your secret weapon. Read on to learn how to build a morning routine and develop evening habits for better sleep. 
-        <br></br>Establishing and maintaining daily routines can be a game changer, as routines provide structure, promote consistency and help embed healthy habits into your daily life. Let’s explore the value of routine and review examples of practical morning and evening routines designed to support a healthier, more balanced lifestyle. </p><br></br>
+        <br></br>Establishing and maintaining daily routines can be a game changer, as routines provide structure, promote consistency and help embed healthy habits into your daily life. Lets explore the value of routine and review examples of practical morning and evening routines designed to support a healthier, more balanced lifestyle. </p><br></br>
         <h1><b>Why Routines Are a Superpower</b></h1><br></br>
         <p>Think of routines as the secret sauce for healthy habits. Regular routines help establish and reinforce healthy habits by providing a consistent framework for daily activities. Over time, these habits become second nature. Some of the benefits you can expect from a routine include:  
-        <br></br>*  Less stress, more focus: A routine can cut down on the frenetic feeling of meeting day-to-day responsibilities. Routines create space for added brainpower by taking the guesswork out of daily tasks. You can focus on what matters, knowing you've got healthy habits automated. 
+        <br></br>*  Less stress, more focus: A routine can cut down on the frenetic feeling of meeting day-to-day responsibilities. Routines create space for added brainpower by taking the guesswork out of daily tasks. You can focus on what matters, knowing you have got healthy habits automated. 
         <br></br>* Goodbye procrastination, hello progress: We all know the struggle of putting things off. Routines create a predictable schedule, making it easier to stick with your goals like exercise or meal prep.  
         <br></br>* Confidence builder: Sticking to a routine feels empowering and organizes your day. It allows you to consistently make healthy choices, which boosts your confidence and motivation. 
-        <br></br>* Better sleep, better you: Consistent sleep and wake times are key for good sleep hygiene. Routines help regulate your body's natural sleep–wake cycle, leading to better quality sleep and more energy throughout the day. 
+        <br></br>* Better sleep, better you: Consistent sleep and wake times are key for good sleep hygiene. Routines help regulate your bodys natural sleep–wake cycle, leading to better quality sleep and more energy throughout the day. 
         <br></br>* Improved mental and emotional well-being: Routines can reduce stress and anxiety by providing a sense of control and predictability in your day. Knowing what to expect can make daily life feel more manageable and less overwhelming. </p><br></br>
         <h2><b>Sample Morning Routine</b></h2><br></br>
         <p>The routines provided below are examples to help you get started. You may need to adjust times and activities to personalize these routines based on your commitments, schedule, preferred exercise time and goals.</p>
         <br></br>
         <p>A well-designed morning routine can set a positive tone for the day, boosting energy levels and productivity.  </p><br></br>
         <h2><b>1 Wake up (6:00–6:20 a.m.) </b></h2><br></br>
-        <p> * Waking up early provides a quiet time for self-care and preparation before the day's demands begin. This might be a place for some brief meditation or mindfulness.  </p><br></br>
+        <p> * Waking up early provides a quiet time for self-care and preparation before the days demands begin. This might be a place for some brief meditation or mindfulness.  </p><br></br>
         <h2><b>2 Hydrate (6:20–6:25 a.m.)  </b></h2><br></br>
-        <p>* Start your day with a glass of water to rehydrate your body after a night's sleep. </p><br></br>
+        <p>* Start your day with a glass of water to rehydrate your body after a night sleep. </p><br></br>
         <h2><b>3 Physical activity (6:30–7:00 a.m.) </b></h2><br></br>
-        <p>* Engage in some form of physical activity, whether it's a brisk walk, yoga or a short workout. This boosts your energy levels and enhances your mood. Shift this time if you feel you move best later in the day.</p><br></br>
+        <p>* Engage in some form of physical activity, whether it is a brisk walk, yoga or a short workout. This boosts your energy levels and enhances your mood. Shift this time if you feel you move best later in the day.</p><br></br>
         <h2><b>4 Healthy breakfast (7:00–7:20 a.m.) </b></h2><br></br>
         <p>Enjoy a balanced breakfast rich in protein, healthy fats and fiber. This fuels your body and keeps you satiated until your next meal. </p><br></br>
         <h2><b>5 Prepare for the day (7:20–8:00 a.m.) </b></h2><br></br>

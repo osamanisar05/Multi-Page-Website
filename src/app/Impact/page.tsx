@@ -12,7 +12,7 @@ export default function Impact(){
             Content and education meant for everyone, everywhere</p>
 
             <h2><b>Featured Collaborator</b></h2>
-            <p>For the past two years, ACE has collaborated with the CDC Foundation's campaign Live to the Beat. This campaign is focused on lowering the incidence of cardiovascular disease in Brown and Black Americans through small steps to move more and make healthier choices.</p>
+            <p>For the past two years, ACE has collaborated with the CDC Foundation campaign Live to the Beat. This campaign is focused on lowering the incidence of cardiovascular disease in Brown and Black Americans through small steps to move more and make healthier choices.</p>
 
             <p>ACE is an active partner and supporter of the Physical Activity Alliance (PAA), an organization that strives to make the active choice the easy choice. PAA works alongside other leading health advocacy organizations in the United States to lead efforts to create, support and advocate policy and system changes that enable all Americans to enjoy physically active lives and make physical activity assessment and referral the standard of care.</p>
 

@@ -2,8 +2,8 @@ export default function Contact() {
     return (
         <div>
             <h1><b>Contact Us</b></h1>
-            <p>If there's something we can</p>
-            <p>help you with, please don't</p>
+            <p>If there is something we can</p>
+            <p>help you with, please don nott</p>
             <p>hesitate to reach out!</p>
 
             <h2><b>Toll Free:</b></h2>

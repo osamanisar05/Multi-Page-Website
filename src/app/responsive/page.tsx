@@ -1,12 +1,5 @@
 import Image from 'next/image';
 import Link from "next/link";
-import Olympians from '../Olympians/page';
-import Ideas from '../Ideas/page';
-import Habbits from '../habbits/page';
-import Brain from '../brain/page';
-import Outdoor from '../outdoor/page';
-import Balance from '../balance/page';
-
 type IData = {
     title : string;
     description : string;
